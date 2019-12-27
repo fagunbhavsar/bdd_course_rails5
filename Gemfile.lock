@@ -95,7 +95,9 @@ GEM
       mini_portile2 (~> 2.4.0)
     public_suffix (3.0.1)
     puma (3.12.2)
+
     rack (2.0.8)
+
     rack-test (0.6.3)
       rack (>= 2.0.8)
     rails (5.0.6)
@@ -196,7 +198,9 @@ DEPENDENCIES
   jbuilder (~> 2.5)
   jquery-rails
   listen (~> 3.0.5)
+
   puma (~> 3.12.2)
+
   rails (~> 5.0.0, >= 5.0.0.1)
   rspec-rails (= 3.1.0)
   sass-rails (~> 5.0)
