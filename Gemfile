@@ -15,7 +15,7 @@ gem "puma", ">= 3.12.2"
 gem "actionview", ">= 5.0.7.2"
 
 gem "activejob", ">= 5.0.7.1"
-
+gem "activesupport", ">=5.0.7.2"
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
