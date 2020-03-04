@@ -6,6 +6,8 @@ gem 'rails', '~> 5.0.0', '>= 5.0.0.1'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
+
+gem 'puma', '~> 3.12'
 #gem 'puma', '~> 3.0'
 
 gem "sprockets", ">= 3.7.2"
@@ -15,7 +17,10 @@ gem "puma", ">= 3.12.2"
 gem "actionview", ">= 5.0.7.2"
 
 gem "activejob", ">= 5.0.7.1"
+<<<<<<< HEAD
 gem "activesupport", ">=5.0.7.2"
+=======
+>>>>>>> c89082e5250dc90697a8e42593409270e73ba1c1
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
